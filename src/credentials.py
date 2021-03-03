@@ -1,5 +1,0 @@
-user_agent= 'karma-bot'
-client_id= '6mfRn9yu84yJAag'
-client_secret='8OxUBEcAUt9RgwDgE41TQSbJzw0gqw'
-username= 'FunSizeAthlete'
-password = 'KaleBatoot5579!'
