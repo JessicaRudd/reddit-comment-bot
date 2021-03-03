@@ -1,0 +1,15 @@
+name: reddit-bot
+
+channels:
+- conda-forge
+- defaults
+
+dependencies:
+- python=3.8
+- jupyter 
+- jupyter_contrib_nbextensions
+- praw
+- pip
+- autopep8
+- isort
+- black
